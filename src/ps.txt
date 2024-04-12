@@ -1,0 +1,7 @@
+Try to make a weather app using API from OpenWeather
+
+Features:
+Should show data for current hour for selected location. 
+(Also try to learn how to get live location of a user so that the default data is of that location)
+
+Also you can show forecast for next 5 days
